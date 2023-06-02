@@ -1,0 +1,5 @@
+project: whisper
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
